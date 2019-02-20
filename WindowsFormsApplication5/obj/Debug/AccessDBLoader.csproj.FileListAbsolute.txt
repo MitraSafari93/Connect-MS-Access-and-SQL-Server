@@ -1,0 +1,9 @@
+C:\Users\t.safari\Documents\Visual Studio 2013\Projects\Git\Connect-MS-Access-and-SQL-Server\WindowsFormsApplication5\bin\Debug\AccessDBLoader.exe.config
+C:\Users\t.safari\Documents\Visual Studio 2013\Projects\Git\Connect-MS-Access-and-SQL-Server\WindowsFormsApplication5\bin\Debug\AccessDBLoader.exe
+C:\Users\t.safari\Documents\Visual Studio 2013\Projects\Git\Connect-MS-Access-and-SQL-Server\WindowsFormsApplication5\bin\Debug\AccessDBLoader.pdb
+C:\Users\t.safari\Documents\Visual Studio 2013\Projects\Git\Connect-MS-Access-and-SQL-Server\WindowsFormsApplication5\obj\Debug\AccessDBLoader.csprojResolveAssemblyReference.cache
+C:\Users\t.safari\Documents\Visual Studio 2013\Projects\Git\Connect-MS-Access-and-SQL-Server\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\t.safari\Documents\Visual Studio 2013\Projects\Git\Connect-MS-Access-and-SQL-Server\WindowsFormsApplication5\obj\Debug\AccessDBLoader.Properties.Resources.resources
+C:\Users\t.safari\Documents\Visual Studio 2013\Projects\Git\Connect-MS-Access-and-SQL-Server\WindowsFormsApplication5\obj\Debug\AccessDBLoader.csproj.GenerateResource.Cache
+C:\Users\t.safari\Documents\Visual Studio 2013\Projects\Git\Connect-MS-Access-and-SQL-Server\WindowsFormsApplication5\obj\Debug\AccessDBLoader.exe
+C:\Users\t.safari\Documents\Visual Studio 2013\Projects\Git\Connect-MS-Access-and-SQL-Server\WindowsFormsApplication5\obj\Debug\AccessDBLoader.pdb
